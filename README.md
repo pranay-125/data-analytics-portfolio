@@ -144,6 +144,7 @@ Built **Power BI dashboards** visualizing:
 ---
 
 # Banking Risk & Customer Behavior Analysis
+🔗 https://github.com/pranay-125/Banking_Risk_Analysis
 
 ### Business Problem
 
