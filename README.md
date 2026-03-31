@@ -2,14 +2,7 @@
 Data analytics portfolio showcasing projects in marketing analytics, financial risk analysis, and business intelligence dashboards.
 
 
-# Pranay Shrivastava – Data Analytics Portfolio
-
-AI & Data Science student specializing in **Data Analytics, Business Intelligence, and business-focused data analysis**.  
-Experienced in analyzing structured business datasets to generate insights supporting **marketing optimization, financial risk evaluation, and customer behavior analysis**.
-
----
-
-# About Me
+# Pranay Shrivastava 
 
 Final-year **Artificial Intelligence & Data Science student** with hands-on experience in data analytics, KPI monitoring, and business intelligence reporting.
 
@@ -24,7 +17,7 @@ Interested in **entry-level opportunities in Data Analytics, Business Intelligen
 # Education
 
 **Lakshmi Narain College of Technology, Bhopal**  
-B.Tech – Artificial Intelligence & Data Science
+B.Tech – Artificial Intelligence & Data Science | CGPA - 7.80
 
 ---
 
