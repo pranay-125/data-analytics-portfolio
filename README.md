@@ -1,4 +1,4 @@
-# data-analytics-portfolio
+# Data-Analytics-Portfolio
 Data analytics portfolio showcasing projects in marketing analytics, financial risk analysis, and business intelligence dashboards.
 
 
