@@ -68,7 +68,7 @@ B.Tech – Artificial Intelligence & Data Science | CGPA - 7.80
 
 ---
 
-# Meta Ad Performance & Customer Journey Analytics
+# Meta Campaign Performance & Customer Journey Analytics
 🔗 https://github.com/pranay-125/Meta-Ad-Performance-Analytics
 
 ### Business Problem
@@ -107,7 +107,7 @@ Developed **interactive Power BI dashboards** enabling stakeholders to monitor:
 
 ---
 
-# Marketing Analytics & Customer Experience Optimization
+# Customer Engagement & Marketing Channel Performance Analysis 
 🔗 https://github.com/pranay-125/marketing-analytics-customer-engagement-dashboard
 
 ### Business Problem
@@ -145,7 +145,7 @@ Built **Power BI dashboards** visualizing:
 
 ---
 
-# Banking Risk & Customer Behavior Analysis
+# Customer Credit Risk & Financial Behavior Analysis
 🔗 https://github.com/pranay-125/banking-customer-risk-financial-behavior-analysis
 
 ### Business Problem
