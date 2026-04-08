@@ -108,7 +108,7 @@ Developed **interactive Power BI dashboards** enabling stakeholders to monitor:
 ---
 
 # Marketing Analytics & Customer Experience Optimization
-🔗 https://github.com/pranay-125/Marketing-Analytics-Customer-Insights
+🔗 https://github.com/pranay-125/marketing-analytics-customer-engagement-dashboard
 
 ### Business Problem
 
@@ -146,7 +146,7 @@ Built **Power BI dashboards** visualizing:
 ---
 
 # Banking Risk & Customer Behavior Analysis
-🔗 https://github.com/pranay-125/Banking_Risk_Analysis
+🔗 https://github.com/pranay-125/banking-customer-risk-financial-behavior-analysis
 
 ### Business Problem
 
