@@ -183,3 +183,88 @@ Developed **Power BI dashboards** visualizing:
 **Tools:** Excel | SQL | Python | Power BI
 
 ---
+
+<hr>
+
+<h2>Sales Performance Intelligence & Regional Analytics</h2>
+
+<p>
+<a href="https://github.com/pranay-125/Sales-Performance-Intelligence-Regional-Analytics">
+🔗 View Project Repository
+</a>
+</p>
+
+<h3>Business Problem</h3>
+
+<p>
+Analyzed regional sales transaction data to understand 
+<strong>revenue distribution, product demand, and profitability patterns across different geographic markets.</strong>
+</p>
+
+<p>
+Organizations often struggle to identify which regions, products, and customers contribute the most to revenue and profit. 
+This project focuses on transforming raw sales data into 
+<strong>actionable business insights that help leadership monitor sales performance and support data-driven decision making.</strong>
+</p>
+
+<h3>Analysis</h3>
+
+<ul>
+<li>Cleaned and transformed transactional sales data using <strong>Power Query</strong></li>
+<li>Built a <strong>Star Schema data model</strong> for efficient analytics and dashboard performance</li>
+<li>Created <strong>DAX measures</strong> to calculate key sales performance metrics</li>
+<li>Performed <strong>trend analysis and regional sales comparisons</strong> to identify growth opportunities</li>
+</ul>
+
+<h3>Key Performance Indicators (KPIs)</h3>
+
+<ul>
+<li><strong>Total Revenue</strong> – Total sales generated across regions</li>
+<li><strong>Total Profit</strong> – Overall profit earned after operational costs</li>
+<li><strong>Units Sold</strong> – Total number of products sold</li>
+<li><strong>Profit Margin</strong> – Percentage of revenue converted into profit</li>
+<li><strong>Average Selling Price</strong> – Average revenue per product unit</li>
+<li><strong>Sales Growth</strong> – Revenue changes across time periods</li>
+</ul>
+
+<p>
+These KPIs allow stakeholders to monitor financial performance, evaluate product demand,
+and analyze profitability trends across regions.
+</p>
+
+<h3>Dashboard</h3>
+
+<p>
+Developed an <strong>interactive Power BI Sales Intelligence Dashboard</strong> enabling stakeholders to analyze:
+</p>
+
+<ul>
+<li>Regional revenue distribution</li>
+<li>Top performing states and geographic markets</li>
+<li>Product category performance</li>
+<li>Customer revenue contribution</li>
+<li>Profit margin comparison across regions</li>
+<li>Monthly sales trend analysis</li>
+</ul>
+
+<h3>Key Insights</h3>
+
+<ul>
+<li>Revenue is concentrated among a <strong>small group of high-performing products</strong></li>
+<li>The <strong>West region contributes the highest share of total revenue</strong></li>
+<li>Seasonal demand patterns show <strong>peak sales during mid-year months</strong></li>
+<li>Some products generate <strong>high revenue but lower profit margins</strong>, indicating pricing optimization opportunities</li>
+</ul>
+
+<h3>Business Impact</h3>
+
+<p>The analysis helps organizations:</p>
+
+<ul>
+<li>Identify <strong>high-performing markets and profitable products</strong></li>
+<li>Optimize <strong>pricing strategies and product mix</strong></li>
+<li>Align <strong>marketing campaigns with seasonal demand</strong></li>
+<li>Improve <strong>sales strategy using data-driven insights</strong></li>
+</ul>
+
+<p><strong>Tools:</strong> Power BI | Power Query | DAX | Excel</p>
