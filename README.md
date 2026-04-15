@@ -186,7 +186,7 @@ Developed **Power BI dashboards** visualizing:
 
 <hr>
 
-<h2>Sales Performance Intelligence & Regional Analytics</h2>
+<h1>Sales Performance Intelligence & Regional Analytics</h1>
 
 <p>
 🔗 https://github.com/pranay-125/Sales-Performance-Intelligence-Regional-Analytics
