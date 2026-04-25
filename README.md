@@ -55,7 +55,7 @@ I have worked on projects across <b>Marketing Analytics, Financial Risk Analysis
 
 <hr>
 
-<h3>Meta Campaign Performance & Customer Journey Analytics</h3>
+<h3>Marketing Funnel & Campaign Performance Analytics (Meta Ads)</h3>
 
 <p><b>Domain:</b> Marketing Analytics</p>
 
@@ -74,6 +74,30 @@ Analyzed <b>52,000+ campaign interaction records</b> to evaluate advertising eff
 
 <p>
 🔗 <a href="https://github.com/pranay-125/meta-campaign-performance-analytics">View Project</a>
+</p>
+
+<hr>
+
+
+<h3>Customer Credit Risk & Financial Behavior Analysis</h3>
+
+<p><b>Domain:</b> Financial Analytics</p>
+
+<p>
+Analyzed <b>24,000+ banking customer records</b> to identify financial behavior patterns and credit risk indicators.
+</p>
+
+<ul>
+<li>Conducted EDA using Python to analyze financial relationships</li>
+<li>Built risk indicators: Loan-to-Income Ratio, Credit Utilization</li>
+<li>Segmented customers based on financial behavior</li>
+<li>Developed dashboards for risk monitoring</li>
+</ul>
+
+<p><b>Impact:</b> Enabled identification of high-risk customer segments for better credit decisions</p>
+
+<p>
+🔗 <a href="https://github.com/pranay-125/banking-customer-risk-financial-behavior-analysis">View Project</a>
 </p>
 
 <hr>
@@ -97,29 +121,6 @@ Analyzed <b>38,000+ customer engagement records</b> to identify decline in marke
 
 <p>
 🔗 <a href="https://github.com/pranay-125/marketing-analytics-customer-engagement-dashboard">View Project</a>
-</p>
-
-<hr>
-
-<h3>Customer Credit Risk & Financial Behavior Analysis</h3>
-
-<p><b>Domain:</b> Financial Analytics</p>
-
-<p>
-Analyzed <b>24,000+ banking customer records</b> to identify financial behavior patterns and credit risk indicators.
-</p>
-
-<ul>
-<li>Conducted EDA using Python to analyze financial relationships</li>
-<li>Built risk indicators: Loan-to-Income Ratio, Credit Utilization</li>
-<li>Segmented customers based on financial behavior</li>
-<li>Developed dashboards for risk monitoring</li>
-</ul>
-
-<p><b>Impact:</b> Enabled identification of high-risk customer segments for better credit decisions</p>
-
-<p>
-🔗 <a href="https://github.com/pranay-125/banking-customer-risk-financial-behavior-analysis">View Project</a>
 </p>
 
 <hr>
