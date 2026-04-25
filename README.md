@@ -170,5 +170,5 @@ Seeking entry-level roles in <b>Data Analytics, Business Intelligence, or Consul
 <p>
 📧 Email: (Add your email)<br>
 🔗 GitHub: <a href="https://github.com/pranay-125">github.com/pranay-125</a><br>
-🔗 LinkedIn: (Add your LinkedIn link)
+🔗 LinkedIn: <a href="https://www.linkedin.com/in/pranayshrivastavaofficial/" target="_blank">pranayshrivastavaofficial</a>
 </p>
